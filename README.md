@@ -13,4 +13,7 @@
  - blackbox-exporter
 4. На ubuntu-srv-2 (192.168.100.161) установлены Prometheus и Alertmanager, отредактированы конфигурационные файлы:
 ![image](https://user-images.githubusercontent.com/71332690/215459612-a60f8206-9474-41c3-b64b-63bb4d53f484.png)
+5. Оповещения для отправки в Telegram алертов настроены с помощью специального бота Telepush:
+![image](https://user-images.githubusercontent.com/71332690/215460167-450d4794-f022-452d-9a75-54aeec4eb865.png)
+
 
